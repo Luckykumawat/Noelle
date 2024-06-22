@@ -1,0 +1,89 @@
+/* width */
+.w-100p{
+    width: 100%;
+}
+.w-98p{
+    width: 98%;
+}
+/* font size */
+.mfs-1{
+    font-size: 1vw;
+}
+.mfs-1l4{
+    font-size: 1.4vw;
+}
+/* fonr weight */
+.mfw-300{
+    font-weight: 300;
+}
+.mfw-400{
+    font-weight: 400;
+}
+.mfw-600{
+    font-weight: 600;
+}
+
+/* margin */
+.-mt-1{
+margin-top: -1vw;
+}
+
+
+
+/* border */
+.ol-none{
+    outline: none;
+}
+.bg-trans{
+    background: transparent;
+}
+.b-1-white{
+    border: 1px solid white;
+}
+.border-none{
+    border: none;
+}
+
+.td-none{
+    text-decoration: none;
+}
+
+
+/* color */
+.text-dusty_rose{
+    color: #b08181;
+}
+.text-white{
+    color: white;
+}
+
+/* bg-color */
+.bg-dusty_rose{
+    background-color: #b08181;
+}
+
+
+.uppercase{
+    text-transform: uppercase;
+    }
+.capitalize{
+text-transform: capitalize;
+}
+.c-pointer{
+    cursor: pointer;
+}
+
+
+/* justify */
+.justfy-center{
+    justify-content: center;
+}
+.justfy-between{
+    justify-content: space-between ;
+}
+.justfy-end{
+    justify-content: end ;
+}etwee
+.item-center{
+    align-items: center;
+}
